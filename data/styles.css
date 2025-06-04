@@ -1,4 +1,4 @@
-﻿.ax_default {
+.ax_default {
   font-family:'Arial Normalny', 'Arial', sans-serif;
   font-weight:400;
   font-style:normal;
@@ -21,6 +21,9 @@
 .placeholder {
 }
 .button {
+}
+=======
+.image {
 }
 .primary_button {
   color:#FFFFFF;
@@ -100,11 +103,37 @@
 .sticky_4 {
   text-align:left;
 }
+=======
+.paragraph {
+  text-align:left;
+}
+.text_field {
+  font-size:30px;
+  color:#000000;
+  text-align:left;
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.list_box {
+  color:#000000;
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.table_cell {
+}
+.menu_item {
+}
 .form_hint {
   color:#999999;
 }
 .form_disabled {
 }
 .flow_shape {
+}
+.icon {
 }
 textarea, select, input, button { outline: none; }
